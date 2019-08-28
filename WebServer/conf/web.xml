@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web>
+	<!-- content-type mapping -->
+	<type-mappings>
+		<type-mapping ext="html" type="text/html"> </type-mapping>
+		<type-mapping ext="xml" type="text/xml"> </type-mapping>
+		
+		<type-mapping ext="jpg" type="image/jpg"> </type-mapping>
+		<type-mapping ext="ico" type="image/ico"> </type-mapping>
+		<type-mapping ext="png" type="image/png"> </type-mapping>
+		<type-mapping ext="jpeg" type="image/jpeg"> </type-mapping>
+		<type-mapping ext="gif" type="image/gif"> </type-mapping>
+		<type-mapping ext="css" type="text/css"> </type-mapping>
+		<type-mapping ext="js" type="text/javascript"> </type-mapping>
+	
+	</type-mappings>
+</web>
